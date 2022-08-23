@@ -12,3 +12,7 @@ shop-may-22.iml
 *.class
 
 1.txt
+
+.idea/encodings.xml
+
+.idea/runConfigurations.xml
